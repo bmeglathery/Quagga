@@ -152,7 +152,7 @@ public class MainActivity extends AppCompatActivity {
             imageView[i].setImageResource(imageId);
             imageView[i].startAnimation(shakeAnimation);
             //Uncomment after correcting the .mp3 file
-            //diceRollAudioPlayer.start();
+            diceRollAudioPlayer.start();
         }
 
         Context context = getApplicationContext();
