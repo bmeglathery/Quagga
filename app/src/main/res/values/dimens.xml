@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="die_width">125dp</dimen>
+    <dimen name="die_margin">28dp</dimen>
+</resources>

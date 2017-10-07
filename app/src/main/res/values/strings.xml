@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quagga</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text">Roll</string>
+    <string name="randomize_background">Recolor Background!</string>
+    <string name="saved_num_wins">savedNumWins</string>
+    <string name="saved_num_games">savedNumGames</string>
+    <string name="saved_bg_color">savedBgColor</string>
+    <string name="delete_saved_results">Restart</string>
+</resources>
