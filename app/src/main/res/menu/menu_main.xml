@@ -19,5 +19,4 @@
             android:title="@string/delete_saved_results"/>
 
     </item>
-
 </menu>
